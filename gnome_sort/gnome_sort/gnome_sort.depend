@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706661025 source:c:\users\hp\desktop\gnome_sort\gnome_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

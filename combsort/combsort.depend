@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706665287 source:c:\users\hp\desktop\sort alogarthm\combsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
